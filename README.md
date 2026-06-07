@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Web Developer & iOS Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=iOS+Developer;Web+Developer;SwiftUI+Developer;React+%26+Next.js+Developer;C%2B%2B+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=iOS+Developer;SwiftUI+Developer;React+%26+Next.js+Developer;Web+Developer" />
 </p>
 
 ---
@@ -16,12 +16,12 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🚀 Web Developer & iOS Developer  
-- 📱 Building modern iOS apps with SwiftUI  
-- 💻 Creating responsive web apps with React & Next.js  
-- ⚙️ Interested in C++, multithreading and system design  
-- 🌍 Based in Germany  
-- 🎯 Focused on clean code, UI/UX and scalable software  
+- 🚀 Web Developer & iOS Developer
+- 📱 Building modern iOS applications with SwiftUI
+- 💻 Creating responsive web applications with React & Next.js
+- ⚙️ Passionate about C++, Multithreading and System Design
+- 🇩🇪 Based in Germany
+- 🎯 Focused on Clean Code, UI/UX and Scalable Software Solutions
 
 <br>
 
@@ -47,11 +47,18 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-### ⚙️ Programming & Tools
+### ⚙️ Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🛠️ Tools
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -62,32 +69,17 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔥 Multithreaded Web Server</h3>
-      <p>C++ web server with thread pool, request queue, priority scheduling and real-time dashboard.</p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Responsive portfolio website built using modern web technologies.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>☕ Coffee Website</h3>
-      <p>Clean and responsive coffee shop website using HTML, CSS and JavaScript.</p>
-    </td>
-    <td width="50%">
-      <h3>📱 SwiftUI Apps</h3>
-      <p>Modern iOS UI projects using Swift, SwiftUI and MVVM architecture.</p>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|----------|------------|
+| 🔥 Multithreaded Web Server | C++ Web Server with Thread Pool, Request Queue, Priority Scheduling and Live Dashboard |
+| 🌐 Portfolio Website | Personal portfolio built using HTML, CSS and JavaScript |
+| ☕ Coffee Shop Website | Responsive coffee shop website with modern UI |
+| 🚗 Parking & Car Rental App | Mobile application built with SwiftUI |
+| 🏠 Smart Home App | SwiftUI-based smart home control interface |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mxtu-devp9&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -106,9 +98,11 @@
   <a href="https://mitenmmistry.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
   <a href="mailto:mitumistry2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/mxtu-devp9">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
