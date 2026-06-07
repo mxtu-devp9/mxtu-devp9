@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Web Developer & iOS Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=iOS+Developer;SwiftUI+Developer;React+%26+Next.js+Developer;Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=#00FFFF&center=true&vCenter=true&width=700&lines=iOS+Developer;SwiftUI+Developer;React+%26+Next.js+Developer;Web+Developer" />
 </p>
 
 ---
@@ -71,10 +71,11 @@
 
 | Project | Description |
 |----------|------------|
-| 🔥 Multithreaded Web Server | C++ Web Server with Thread Pool, Request Queue, Priority Scheduling and Live Dashboard |
+| 🚗 Parking & Car Rental App | Mobile application built with SwiftUI |
+| 🛒 SuperMarket App UI | Modern SwiftUI supermarket shopping application with clean UI and user-friendly experience |
 | 🌐 Portfolio Website | Personal portfolio built using HTML, CSS and JavaScript |
 | ☕ Coffee Shop Website | Responsive coffee shop website with modern UI |
-| 🚗 Parking & Car Rental App | Mobile application built with SwiftUI |
+| 🔥 Multithreaded Web Server | C++ Web Server with Thread Pool, Request Queue, Priority Scheduling and Live Dashboard |
 | 🏠 Smart Home App | SwiftUI-based smart home control interface |
 
 ---
