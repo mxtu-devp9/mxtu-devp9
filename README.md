@@ -13,10 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=📱+iOS+Developer;⚡+SwiftUI+Developer;🚀+React+%26+Next.js+Developer;💻+Web+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mxtu-devp9&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
