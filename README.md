@@ -26,12 +26,6 @@ Git • GitHub • VS Code • Xcode
 - Parking and Car Rental App
 - Smart Home App UI
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxtu-devp9&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxtu-devp9&layout=compact&theme=tokyonight)
-
 ## Connect With Me
 
 Portfolio: https://mitenmmistry.vercel.app/
