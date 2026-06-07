@@ -1,31 +1,125 @@
-# Hi 👋 I'm Miten Mistry
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Miten%20Mistry&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-🚀 Web Developer & iOS Developer
+<h1 align="center">Hi 👋 I'm Miten Mistry</h1>
 
-I build responsive web applications and seamless iOS experiences with clean code and modern UI.
+<h3 align="center">🚀 Web Developer & iOS Developer</h3>
 
-## Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Web+Developer;iOS+Developer;SwiftUI+Developer;React+%26+Next.js+Developer;C%2B%2B+Enthusiast" />
+</p>
 
-### Web Development
-HTML • CSS • JavaScript • React • Next.js
+---
 
-### iOS Development
-Swift • SwiftUI • MVVM
+## 👨‍💻 About Me
 
-### Programming
-C++ • Python • JavaScript • Swift
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Tools
-Git • GitHub • VS Code • Xcode
+- 🚀 Web Developer & iOS Developer  
+- 📱 Building modern iOS apps with SwiftUI  
+- 💻 Creating responsive web apps with React & Next.js  
+- ⚙️ Interested in C++, multithreading and system design  
+- 🌍 Based in Germany  
+- 🎯 Focused on clean code, UI/UX and scalable software  
 
-## Featured Projects
+<br>
 
-- Multithreaded Web Server using C++
-- Portfolio Website
-- Coffee Website
-- Parking and Car Rental App
-- Smart Home App UI
+---
 
-## Connect With Me
+## 🛠️ Tech Stack
 
-Portfolio: https://mitenmmistry.vercel.app/
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-111827?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+### 💻 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+### ⚙️ Programming & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔥 Multithreaded Web Server</h3>
+      <p>C++ web server with thread pool, request queue, priority scheduling and real-time dashboard.</p>
+    </td>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>Responsive portfolio website built using modern web technologies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>☕ Coffee Website</h3>
+      <p>Clean and responsive coffee shop website using HTML, CSS and JavaScript.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 SwiftUI Apps</h3>
+      <p>Modern iOS UI projects using Swift, SwiftUI and MVVM architecture.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mxtu-devp9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxtu-devp9&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mxtu-devp9&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://mitenmmistry.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:mitumistry2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mxtu-devp9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Code • Build • Learn • Repeat</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" />
+</p>
