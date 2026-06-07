@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Miten Mistry
 
-<!--
-**mxtu-devp9/mxtu-devp9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer & iOS Developer
 
-Here are some ideas to get you started:
+I build responsive web applications and seamless iOS experiences with clean code and modern UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Web Development
+HTML • CSS • JavaScript • React • Next.js
+
+### iOS Development
+Swift • SwiftUI • MVVM
+
+### Programming
+C++ • Python • JavaScript • Swift
+
+### Tools
+Git • GitHub • VS Code • Xcode
+
+## Featured Projects
+
+- Multithreaded Web Server using C++
+- Portfolio Website
+- Coffee Website
+- Parking and Car Rental App
+- Smart Home App UI
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxtu-devp9&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxtu-devp9&layout=compact&theme=tokyonight)
+
+## Connect With Me
+
+Portfolio: https://mitenmmistry.vercel.app/
